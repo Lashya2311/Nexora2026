@@ -1,0 +1,121 @@
+week_start,rank,gateway_id,score,reason
+2026-02-02,1,0E1B6F4DBA34,131.95222916666668,110 hours with frequent disconnections; declining read rate
+2026-02-02,2,0AB6B45C775A,130.2324666812322,98 hours with prolonged offline periods; meter read rate only 33%
+2026-02-02,3,06FFEC2EFA5E,127.80860095185011,102 hours with prolonged offline periods; degraded signal quality
+2026-02-02,4,06787526FEB3,124.9417483464818,97 hours with frequent disconnections; degraded signal quality
+2026-02-02,5,0A4E33E2692B,119.69732620320855,81 hours with frequent disconnections; degraded signal quality
+2026-02-02,6,06F49BD8F572,110.49438202247191,65 hours with frequent disconnections; meter read rate only 44%
+2026-02-02,7,02D7623552C8,99.4321015304218,46 hours with long reboot durations; degraded signal quality
+2026-02-02,8,06F2CDBD2C41,99.31127147766323,58 hours with frequent disconnections; meter read rate only 69%
+2026-02-02,9,02314F9A9168,92.41600907895295,21 hours with frequent disconnections; meter read rate only 29%
+2026-02-02,10,02423E0E6E9F,90.88138138138139,19 hours with prolonged offline periods; meter read rate only 25%
+2026-02-02,11,0E6D2CBAED41,90.66178082191782,25 hours with frequent disconnections; degraded signal quality
+2026-02-02,12,069A98DEEB1D,87.86175998427416,meter read rate only 22%; 3 unfixed visit(s) in last 3 months
+2026-02-02,13,0E9A30D927A5,87.05454135931078,18 hours with prolonged offline periods; meter read rate only 39%
+2026-02-02,14,022C6F326E3B,86.60194924123496,10 hours with prolonged offline periods; meter read rate only 24%
+2026-02-02,15,0EA0447DA91C,83.9860939206407,12 hours with frequent disconnections
+2026-02-09,1,0A4E33E2692B,127.44066643998639,96 hours with frequent disconnections; declining read rate
+2026-02-09,2,06787526FEB3,112.86274851761424,73 hours with frequent disconnections; degraded signal quality
+2026-02-09,3,0AB6B45C775A,110.86389574993612,60 hours with frequent disconnections; meter read rate only 26%
+2026-02-09,4,02D7623552C8,103.29713013359724,53 hours with frequent disconnections; degraded signal quality
+2026-02-09,5,0E1B6F4DBA34,100.03537912912913,45 hours with frequent disconnections; meter read rate only 63%
+2026-02-09,6,0A68F38A6ACF,98.18620035682792,115 hours with frequent disconnections
+2026-02-09,7,0AA296FF247D,92.79860662213603,62 hours with prolonged offline periods
+2026-02-09,8,06C0D5E3BCDB,90.58991911143305,23 hours with prolonged offline periods; meter read rate only 26%
+2026-02-09,9,02423E0E6E9F,89.56867130346448,16 hours with prolonged offline periods; meter read rate only 22%
+2026-02-09,10,0E6D2CBAED41,89.12511415525114,22 hours with prolonged offline periods
+2026-02-09,11,02314F9A9168,86.89489683765322,17 hours with prolonged offline periods; meter read rate only 28%
+2026-02-09,12,0E55F28AB569,84.63536463536462,36 hours with frequent disconnections; meter read rate only 18%
+2026-02-09,13,022C6F326E3B,84.63076923076923,6 hours with excessive reboots; meter read rate only 22%
+2026-02-09,14,0EA0447DA91C,84.52088063423531,13 hours with prolonged offline periods
+2026-02-09,15,0ADD02AB693D,83.34244194131554,8 hours with prolonged offline periods; meter read rate only 15%
+2026-02-16,1,0AA2F2CAB50B,158.2820985410934,147 hours with frequent disconnections; flagged as problematic in engineer review
+2026-02-16,2,065B928716CD,151.09920634920636,133 hours with frequent disconnections; flagged as problematic in engineer review
+2026-02-16,3,0AA296FF247D,133.12723550958847,93 hours with frequent disconnections; declining read rate
+2026-02-16,4,0A4E33E2692B,129.10640913081647,87 hours with frequent disconnections; meter read rate only 64%
+2026-02-16,5,0A68F38A6ACF,128.64475431606908,143 hours with frequent disconnections
+2026-02-16,6,0AE6BF39C720,122.67775390077549,94 hours with frequent disconnections
+2026-02-16,7,02D7623552C8,121.97845577412016,74 hours with frequent disconnections; flagged as problematic in engineer review
+2026-02-16,8,0E1B6F4DBA34,105.75454186413901,55 hours with frequent disconnections; meter read rate only 50%
+2026-02-16,9,06787526FEB3,104.36157186278767,39 hours with frequent disconnections; flagged as problematic in engineer review
+2026-02-16,10,06F49BD8F572,98.04009073992766,39 hours with excessive reboots; meter read rate only 34%
+2026-02-16,11,06C0D5E3BCDB,97.71469189322008,20 hours with excessive reboots; meter read rate only 25%
+2026-02-16,12,02D49A34B2FE,97.20184383444187,92 hours with prolonged offline periods; degraded signal quality
+2026-02-16,13,0EA0447DA91C,92.62151100169258,13 hours with prolonged offline periods; flagged as problematic in engineer review
+2026-02-16,14,0AA18F330F59,91.30672268907563,14 hours with prolonged offline periods; flagged as problematic in engineer review
+2026-02-16,15,02892F51E1CB,91.05150617640685,6 hours with prolonged offline periods; meter read rate only 43%
+2026-02-23,1,02D7623552C8,134.43617021276594,101 hours with long reboot durations; flagged as problematic in engineer review
+2026-02-23,2,065B928716CD,130.92516227567774,91 hours with frequent disconnections; flagged as problematic in engineer review
+2026-02-23,3,06238EE3BE6C,128.59820070654453,133 hours with frequent disconnections; degraded signal quality
+2026-02-23,4,0A4E33E2692B,124.17176470588235,74 hours with frequent disconnections; meter read rate only 47%
+2026-02-23,5,0228A99EE35A,122.69363141114928,146 hours with excessive reboots; degraded signal quality
+2026-02-23,6,060EE3CB4779,121.31186273348338,92 hours with frequent disconnections; degraded signal quality
+2026-02-23,7,02D49A34B2FE,116.25613833202107,104 hours with excessive reboots; degraded signal quality
+2026-02-23,8,0AA2F2CAB50B,114.74044875682232,60 hours with frequent disconnections; flagged as problematic in engineer review
+2026-02-23,9,0AA296FF247D,111.9074074074074,48 hours with excessive reboots; meter read rate only 61%
+2026-02-23,10,06F2CDBD2C41,95.60766961651917,16 hours with frequent disconnections; meter read rate only 52%
+2026-02-23,11,0EF023E6452D,94.1528877300697,101 hours with excessive reboots; degraded signal quality
+2026-02-23,12,02892F51E1CB,92.6284007602498,10 hours with prolonged offline periods; meter read rate only 46%
+2026-02-23,13,02D4DFEF402A,92.29883525811864,21 hours with long reboot durations; meter read rate only 14%
+2026-02-23,14,06C0D5E3BCDB,91.68780353040393,9 hours with prolonged offline periods; meter read rate only 25%
+2026-02-23,15,0AB6B45C775A,90.44829819199089,7 hours with long reboot durations; meter read rate only 21%
+2026-03-02,1,0EF023E6452D,175.02804642166345,216 hours with long reboot durations; degraded signal quality
+2026-03-02,2,024DD3A9ADCA,139.9972907886815,133 hours with frequent disconnections; flagged as problematic in engineer review
+2026-03-02,3,02D49A34B2FE,134.124,115 hours with prolonged offline periods; degraded signal quality
+2026-03-02,4,060EE3CB4779,120.51612903225806,90 hours with frequent disconnections
+2026-03-02,5,02D7623552C8,120.45652173913044,73 hours with frequent disconnections; flagged as problematic in engineer review
+2026-03-02,6,065B928716CD,97.875,27 hours with long reboot durations; flagged as problematic in engineer review
+2026-03-02,7,0A4E33E2692B,97.59375,27 hours with long reboot durations; flagged as problematic in engineer review
+2026-03-02,8,06787526FEB3,94.80459770114942,22 hours with frequent disconnections; flagged as problematic in engineer review
+2026-03-02,9,02892F51E1CB,91.68461538461538,13 hours with long reboot durations; flagged as problematic in engineer review
+2026-03-02,10,0AE6BF39C720,90.96078431372548,31 hours with frequent disconnections
+2026-03-02,11,0AB6B45C775A,90.91379310344827,13 hours with high CRC error rate; flagged as problematic in engineer review
+2026-03-02,12,06C77FEA9550,90.67756454552229,56 hours with frequent disconnections
+2026-03-02,13,0228A99EE35A,90.35428838513671,78 hours with excessive reboots; degraded signal quality
+2026-03-02,14,06F2CDBD2C41,89.17999999999999,13 hours with prolonged offline periods; flagged as problematic in engineer review
+2026-03-02,15,06C0D5E3BCDB,87.19827586206897,flagged as problematic in engineer review; degraded signal quality
+2026-03-09,1,024DD3A9ADCA,163.40769230769232,159 hours with long reboot durations; flagged as problematic in engineer review
+2026-03-09,2,02F5CE7705EC,119.18148307198904,114 hours with prolonged offline periods
+2026-03-09,3,065B928716CD,117.83333333333333,67 hours with frequent disconnections; flagged as problematic in engineer review
+2026-03-09,4,06C77FEA9550,108.40625,66 hours with prolonged offline periods
+2026-03-09,5,06F170E6BB03,103.5,57 hours with frequent disconnections
+2026-03-09,6,0AFE702BB093,98.8294289897511,29 hours with prolonged offline periods; flagged as problematic in engineer review
+2026-03-09,7,0EA0447DA91C,94.94239631336406,19 hours with prolonged offline periods; flagged as problematic in engineer review
+2026-03-09,8,028B24EADDAD,94.45188213251576,56 hours with prolonged offline periods; degraded signal quality
+2026-03-09,9,06787526FEB3,88.21238938053098,8 hours with prolonged offline periods; flagged as problematic in engineer review
+2026-03-09,10,0E9761D8EB58,87.31188118811882,7 hours with high CRC error rate; flagged as problematic in engineer review
+2026-03-09,11,02D49A34B2FE,86.95223608153331,22 hours with excessive reboots; degraded signal quality
+2026-03-09,12,02D7623552C8,86.86842105263158,flagged as problematic in engineer review; degraded signal quality
+2026-03-09,13,02892F51E1CB,86.86363636363636,flagged as problematic in engineer review
+2026-03-09,14,0AA2F2CAB50B,86.07042253521126,flagged as problematic in engineer review; degraded signal quality
+2026-03-09,15,06C0D5E3BCDB,86.04368932038835,flagged as problematic in engineer review; degraded signal quality
+2026-03-16,1,0A182EFD3C61,167.23076923076923,166 hours with frequent disconnections; flagged as problematic in engineer review
+2026-03-16,2,060C5773A61B,145.83985765124555,124 hours with frequent disconnections; flagged as problematic in engineer review
+2026-03-16,3,06AEE181F595,144.77862595419847,121 hours with prolonged offline periods; flagged as problematic in engineer review
+2026-03-16,4,0EE587927263,121.16666666666667,75 hours with prolonged offline periods; flagged as problematic in engineer review
+2026-03-16,5,02F5CE7705EC,120.9789356984479,87 hours with frequent disconnections
+2026-03-16,6,024DD3A9ADCA,102.45880149812734,37 hours with frequent disconnections; flagged as problematic in engineer review
+2026-03-16,7,0AA296FF247D,101.13157894736842,31 hours with long reboot durations; flagged as problematic in engineer review
+2026-03-16,8,065B928716CD,92.68032786885246,17 hours with long reboot durations; flagged as problematic in engineer review
+2026-03-16,9,0EA0447DA91C,91.51958762886598,16 hours with prolonged offline periods; flagged as problematic in engineer review
+2026-03-16,10,0E752F1B295C,89.88888888888889,28 hours with prolonged offline periods; degraded signal quality
+2026-03-16,11,0AA2F2CAB50B,89.07831325301206,10 hours with high CRC error rate; flagged as problematic in engineer review
+2026-03-16,12,06C77FEA9550,89.01470588235294,27 hours with prolonged offline periods
+2026-03-16,13,06F2CDBD2C41,88.85897435897436,10 hours with prolonged offline periods; flagged as problematic in engineer review
+2026-03-16,14,0E9761D8EB58,88.8103448275862,9 hours with prolonged offline periods; flagged as problematic in engineer review
+2026-03-16,15,06787526FEB3,88.72988505747126,9 hours with prolonged offline periods; flagged as problematic in engineer review
+2026-03-23,1,0A182EFD3C61,180.3847926267281,193 hours with frequent disconnections; flagged as problematic in engineer review
+2026-03-23,2,060C5773A61B,137.13253012048193,106 hours with frequent disconnections; flagged as problematic in engineer review
+2026-03-23,3,02F5CE7705EC,124.22906403940887,97 hours with frequent disconnections; degraded signal quality
+2026-03-23,4,0EE587927263,118.28333333333333,69 hours with frequent disconnections; flagged as problematic in engineer review
+2026-03-23,5,06AEE181F595,115.48542024013722,62 hours with frequent disconnections; flagged as problematic in engineer review
+2026-03-23,6,0AFE702BB093,93.0650623885918,17 hours with prolonged offline periods; flagged as problematic in engineer review
+2026-03-23,7,0AA296FF247D,91.66666666666667,12 hours with prolonged offline periods; flagged as problematic in engineer review
+2026-03-23,8,0E9761D8EB58,90.93083003952569,13 hours with frequent disconnections; flagged as problematic in engineer review
+2026-03-23,9,0EA0447DA91C,90.58024691358025,14 hours with frequent disconnections; flagged as problematic in engineer review
+2026-03-23,10,0E6D2CBAED41,89.69295266629734,13 hours with prolonged offline periods; flagged as problematic in engineer review
+2026-03-23,11,02892F51E1CB,89.67213114754098,9 hours with high CRC error rate; flagged as problematic in engineer review
+2026-03-23,12,0AA18F330F59,89.355421686747,11 hours with frequent disconnections; flagged as problematic in engineer review
+2026-03-23,13,065B928716CD,88.0,6 hours with excessive reboots; flagged as problematic in engineer review
+2026-03-23,14,0AA2F2CAB50B,87.56995884773663,7 hours with high CRC error rate; flagged as problematic in engineer review
+2026-03-23,15,06F2CDBD2C41,87.43906810035843,7 hours with prolonged offline periods; flagged as problematic in engineer review
